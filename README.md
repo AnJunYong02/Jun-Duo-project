@@ -7,7 +7,7 @@
 평봉필드와 히딩크풋살장을 예약해서 사용하세요.
 
 ## image(pixabay 등 무료 이미지 활용)
-![Alt text](C:\Users\안준용\Pictures\OSS\field.jpg)
+![alt text](\C:\Users\안준용\Pictures\OSS\field.jpg)
 
 ## mini project 가 가지고 있는 대략적인 기능 설명
 >- 예약자 이름, 예약 일자, 예약 시간, 예약 장소를 입력하여 예약을 생성, 열람, 수정, 삭제할 수 있습니다.
